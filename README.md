@@ -3,7 +3,7 @@
  -  Personally, I'm into breaking Windows 98 virtual machines, automating my life through open-source IOT, and synthesizing homegrown solutions to address mundane problems.
  
  -  🌱 I’m currently learning enterprise-level automation via PowerShell and Ansible.
- -  💞️ I’m looking to collaborate on exchanging oddball open-source software.
+ -  💞️ I’m looking to collaborate on exchanging megalists of niche open-source software.
  -  📫 Reach me anywhere my handle can be found.
 
 <!---
