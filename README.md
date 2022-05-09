@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @AnnoyedLeek.
-- 👀 Professionally, I’m interested in systems administration, automation, virtualization, containerization, and any other buzzwords found on your favorite tech blog.
-- 👀 Personally, I'm into breaking test domains, automating my life through open-source IOT, and synthesizing homegrown solutions to address mundane problems.
-- 🌱 I’m currently learning enterprise-level automation via PowerShell and Ansible.
-- 💞️ I’m looking to collaborate on exchanging oddball open-source software.
-- 📫 Reach me anywhere my handle can be found!
+ 👋 Howdy, I'm Tehya.
+\\ Professionally, I’m interested in Windows and Linux-based systems administration, automation, virtualization, containerization, and any other buzzwords found on your favorite flavor of tech blog.
+\\ Personally, I'm into breaking Windows 98 virtual machines, automating my life through open-source IOT, and synthesizing homegrown solutions to address mundane problems.
+
+
+\\ 🌱 I’m currently learning enterprise-level automation via PowerShell and Ansible.
+\\ 💞️ I’m looking to collaborate on exchanging oddball open-source software.
+\\ 📫 Reach me anywhere my handle can be found.
 
 <!---
 AnnoyedLeek/AnnoyedLeek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
