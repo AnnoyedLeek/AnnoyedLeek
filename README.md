@@ -4,7 +4,7 @@
  
  -  🌱 I’m currently learning enterprise-level automation via PowerShell and Ansible.
  -  💞️ I’m looking to collaborate on exchanging megalists of time-wasting, niche open-source software.
- -  📫 Reach me anywhere you can find my handles @tehyadeardorff & @annoyedleek
+ -  📫 Reach me anywhere you can find my handles, @tehyadeardorff & @annoyedleek.
 
 <!---
 AnnoyedLeek/AnnoyedLeek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
